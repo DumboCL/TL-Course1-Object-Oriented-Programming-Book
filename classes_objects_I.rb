@@ -36,7 +36,6 @@ class MyCar
   def spray_paint(color)
     self.color = color
     puts "The color change to #{self.color}"
-    
   end
 
 end
